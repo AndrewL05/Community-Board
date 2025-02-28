@@ -2,7 +2,7 @@
 
 Submitted by: **Andrew Li**
 
-This web app: **is a resource hub for computer science students, offering tutorials and resources for mastering programming languages**
+This web app **is a resource hub for computer science students, offering tutorials and resources for mastering programming languages**
 
 Time spent: **3** hours spent in total
 
