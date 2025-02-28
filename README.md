@@ -39,7 +39,7 @@ GIF created with ScreenToGif & Giphy
 
 ## Notes
 
--No major challenges encountered other than styling.
+-No major challenges encountered.
 
 ## License
 
