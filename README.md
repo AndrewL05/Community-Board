@@ -26,10 +26,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/gallery/walkthrough-gif-XkZ2pll' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThweHR2ZGNvbG4xZDF2a3U5cXA5NmR5NmJiOXY0dGxlN2o4bGc3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CJG2vtZNofsPx92Xvu/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+https://imgur.com/gallery/community-board-walkthrough-video-w1nQgus  <-- For better viewing (non-blurry)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ScreenToGif 
+GIF created with ScreenToGif & Giphy
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
